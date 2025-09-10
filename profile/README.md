@@ -18,7 +18,7 @@ Esempi:
 ### 🔗 Elenco repository
 | Lab | Esercizio | Repository |
 |-----|-----------|------------|
-| 01  | 01        | [asd-0101](https://github.com/NOME-ORG/asd-0101) |
+| 01  | 01        | [asd-0101](https://github.com/asd-polito-lab-by-andrealacommara/asd-0101) |
 | 01  | 02        | [asd-0102](https://github.com/NOME-ORG/asd-0102) |
 | 02  | 01        | [asd-0201](https://github.com/NOME-ORG/asd-0201) |
 ---
