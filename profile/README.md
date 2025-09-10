@@ -7,6 +7,7 @@ Qui trovi l'implementazione e il materiale dei vari lab, organizzati in reposito
 
 ## 📂 Struttura dei repository
 Ogni esercizio (**ES**) relativo ad un laboratorio (**XX**) ha il suo repository dedicato, con la seguente nomenclatura: **asd-XXES**.
+
 Esempi:
 - `asd-0101` → Laboratorio 01, Esercizio 1
 - `asd-0102` → Laboratorio 01, Esercizio 2
